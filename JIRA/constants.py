@@ -1,0 +1,1 @@
+JIRA_BUZZTIME_DOMAIN = 'http://jira.buzztime.com'
